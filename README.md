@@ -1,3 +1,3 @@
-my first readme 
+This is my git project
 
-this is my readme 
+I am working on how to create directory,file and push them to github.
